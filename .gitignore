@@ -2,7 +2,8 @@
 node_modules
 /dist
 
-# local env files
+# Env files
+.env
 .env.local
 
 # Editor directories and files
